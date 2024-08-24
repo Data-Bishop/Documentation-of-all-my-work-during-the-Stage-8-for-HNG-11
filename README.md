@@ -71,6 +71,7 @@ This workflow:
 
 ### Things to Note
 - **Data-Bishop** is my GitHub username.
+- Please note that you may notice instances where I have commented out the cron job that triggers the status check every 15 minutes. This was done intentionally to reduce the load on the server during specific periods.
 - I also worked with my DevOps colleagues on the migration to the new server we were given and instructed to migrate to.
 - There are additional tasks and contributions I made throughout this stage that I cannot fully detail in this documentation due to time constraints and the urgency of this report."
 - My team lead can fully attest to my contributions in this stage, and can also provide clarity on what each of them were.
